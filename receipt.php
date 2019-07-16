@@ -188,5 +188,5 @@ busreservationsystem
 <footer>
 	<br><br><br><br><br>
 	<hr>
-  <center><p>Created by Nelson, Bharatha, Aruna and Owais</p></center>
+  <center><p>Created by Owais</p></center>
 </footer>
