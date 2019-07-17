@@ -6,10 +6,9 @@ It uses Apache, phpMyAdmin and MySQL.
 ### How to install?
 
 1. Clone this project, open Terminal in your ```http``` or ```www``` folder of your AMP installation and type:
+2. 
 ```git clone https://gitlab.com/5b43f91c61170e88de567951ebbec765/busreservationsystem```
-
 OR
-
 Download the zip and extract it to ```http``` or ```www``` folder of your AMP installation.
 
 2. Go to localhost/busreservationsystem/welcome.html
