@@ -16,7 +16,6 @@ Download the zip and extract it to ```http``` or ```www``` folder of your AMP in
 <b>Tip</b>: To quickly set up the required database, open the ```dbcreator.php``` file in your web browser.
 
 <hr>
-<b>CREDITS</b>: 
 
 [Open-source notices](NOTICE)
 
