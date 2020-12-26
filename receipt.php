@@ -69,7 +69,7 @@
 		<table>
 			<tr>
 				<td>&nbsp&nbsp</td>
-				<td style="color: #a5baff; font-size: 9px; font-weight: bold"><p>Department</p>of Transport&nbsp&nbsp</td>
+				<td style="color: #a5baff; font-size: 9px; font-weight: bold"><p>BookMyBus</td>
 				<td style="color: white">|&nbsp</td>
 				<td><a href="welcome.html">Home</a>&nbsp&nbsp&nbsp</td>
 				<td><a href="status.html">Status</a></td>
@@ -170,5 +170,5 @@
 <footer>
 	<br><br><br><br><br>
 	<hr>
-  <center><p>Created by Owais</p></center>
+  <center><p>Created by TechWarriors</p></center>
 </footer>

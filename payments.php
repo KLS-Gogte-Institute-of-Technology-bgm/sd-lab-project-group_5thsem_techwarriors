@@ -9,7 +9,7 @@
 			$database="busreservation";
 			$connection=mysqli_connect($server, $username, $password, $database);
 			if(!$connection){
-  		  		die("Uh oh, ".mysqli_connect_error()." contact Owais immediately!");
+  		  		die("Uh oh, ".mysqli_connect_error()." contact TechWarriors immediately!");
 			}
 		?>
 		<style type="text/css">
@@ -69,7 +69,7 @@
 		<table>
 			<tr>
 				<td>&nbsp&nbsp</td>
-				<td style="color: #a5baff; font-size: 9px; font-weight: bold"><p>Department</p>of Transport&nbsp&nbsp</td>
+				<td style="color: #a5baff; font-size: 9px; font-weight: bold"><p>BookMyBus</td>
 				<td style="color: white">|&nbsp</td>
 				<td><a href="welcome.html">Home</a>&nbsp&nbsp&nbsp</td>
 				<td><a href="status.html">Status</a></td>
