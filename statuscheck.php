@@ -71,8 +71,8 @@
 	<hr>
 <?php
 	$server="localhost";
-	$username="root";
-	$password="root";
+	$username="owais";
+	$password="password";
 	$database="busreservation";
 	$connection=mysqli_connect($server, $username, $password, $database);
 	if(!$connection){
