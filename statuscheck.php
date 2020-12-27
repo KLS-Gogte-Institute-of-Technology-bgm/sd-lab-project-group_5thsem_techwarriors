@@ -80,7 +80,7 @@
 	}
 	$txnid=$_POST['txnbox'];
 	$sql="SELECT * FROM payments INNER JOIN tickets ON payments.id=tickets.id WHERE txnid='$txnid'";
-	mysqli_query($sql);
+	mysqli_query($connection, $sql);
     if($result=mysqli_query($connection,$sql)){
   		while ($row=mysqli_fetch_row($result)){
     		printf("<b>Passenger No.:</b> #%s\n",$row[1]); echo "<br>";
