@@ -13,7 +13,7 @@ It uses Linux, Apache, MySQL and PHP (LAMP).
 
 1. Clone this project: open a terminal in your ```/srv/http/``` or ```/htdocs/www/``` folder of your AMP installation and type:<br>
 ```git clone https://github.com/KLS-Gogte-Institute-of-Technology-bgm/sd_group_33_TechWarriors```
-<b>OR</b><br>
+<br><b>OR</b><br>
 Download the zip and extract it to ```/srv/http/``` or ```/htdocs/www/``` folder of your AMP installation.
 
 2. Go to ```localhost/busreservationsystem/welcome.html``` in your web browser.
