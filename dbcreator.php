@@ -21,8 +21,8 @@
 
     function createdb(){
         $server="localhost";
-        $username="owais";
-        $password="password";
+        $username="root";
+        $password="";
         $connection=mysqli_connect($server, $username, $password);
     
         if(!$connection){
